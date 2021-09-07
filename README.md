@@ -1,11 +1,3 @@
-# SPDX Governance change proposal 2021-08
-
-This repo contains the SPDX Community Specification documents for the 2021-08 governance change proposal. Please do not submit PRs; comments on this proposal should be directed to the [SPDX General mailing list](https://lists.spdx.org/g/spdx) as part of the public discussion there.
-
-Upon adoption of the change, this header would be removed and the repo would be transferred to become a new `governance` repo in the SPDX GitHub org.
-
--------
-
 # SPDX Governance
 
 ## What is this repo?
