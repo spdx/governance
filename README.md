@@ -13,6 +13,6 @@ The SPDX Working Group oversees development of the SPDX materials in the [SPDX G
 
 The SPDX Working Group is a working group that operates within The Linux Foundation.
 
-The SPDX Governance model was adopted and approved at the SPDX General Meeting on September 2, 2021, and is based on a modified version of the Community Specification model from the Joint Development Foundation.
+The SPDX Governance model was adopted and approved at the SPDX General Meeting on 2nd September 2021, and is based on a modified version of the Community Specification model from the Joint Development Foundation.
 
 See [4.\_License.md](4._License.md) for details about the licenses for the various types of SPDX materials.
